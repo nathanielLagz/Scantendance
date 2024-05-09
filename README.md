@@ -1,3 +1,3 @@
-#Scantendance
+### Scantendance
 
-: A school project where students scans a QR code from the app serving as an attendance from the teacher.
+: A school project where students scan a QR code from the teacher's app serving as their attendance.
